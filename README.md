@@ -10,10 +10,10 @@ Data Analytics Portfolio
 
 
 
-## Project 3: Data Visualization
+## Project 3: Dashboard for a Bakery Business
 
 
 
 
 
-## Project 4: Dashboard for a Bakery Business
+## Project 4: 
