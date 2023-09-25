@@ -10,7 +10,7 @@ Data Analytics Portfolio
 
 
 
-## Project 3: Dashboard for a Bakery Business
+## Project 3: Sales Dashboard for a Bakery Business
 
 * This is a project that I made for a start-up bakery business named Freon's Homemade Sweets and Pastries
 * 
