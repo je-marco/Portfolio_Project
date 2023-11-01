@@ -1,7 +1,21 @@
 # Porfolio_Project
 Data Analytics Portfolio
 
-## Project 1: Exploratory Data Analysis
+
+## Project 1: Monitoring of Bottle Manufacturing (Dashboard)
+
+
+![Screenshot (1397)](https://github.com/je-marco/Porfolio_Project/assets/142670148/54e94441-d49f-41b5-a578-85b7d5b8cc73)
+
+![Screenshot (1398)](https://github.com/je-marco/Porfolio_Project/assets/142670148/d35663e6-4eb0-4246-abbe-f9cfd79d28bf)
+
+![Screenshot (1399)](https://github.com/je-marco/Porfolio_Project/assets/142670148/5e73317d-488e-40c9-8398-c5a532ff7702)
+
+![Screenshot (1400)](https://github.com/je-marco/Porfolio_Project/assets/142670148/1ed41e37-ee6d-4bb4-9723-f56cf8abdbaa)
+
+
+
+## Project 3: Exploratory Data Analysis
 
 Exploratory Data Analysis of COVID 19 Deaths and Vaccinations
 
@@ -16,11 +30,8 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 ### [Link to the Tableau dashboard](https://public.tableau.com/app/profile/jericka.marco/viz/COVID19Dashboard_16951688711120/floating) - Use Desktop View for the best view
 
 
-## Project 2: Data Cleaning
 
-
-
-## Project 3: Sales Dashboard for a Bakery Business
+## Project 4: Sales Dashboard for a Bakery Business
 
 * This is a project that I made for a start-up bakery business named Freon's Homemade Sweets and Pastries
 * 
