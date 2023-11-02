@@ -1,5 +1,4 @@
-# Porfolio_Project
-### Data Analytics Portfolio
+# Data Analytics Porfolio
 This portfolio project showcases my skill in data analytics using SQL, Excel, R, Tableau, and IBM Cognos Analytics. It demonstrates my ability to extract, clean, analyze, and visualize data to derive meaningful insights and support decision-making.
 
 
