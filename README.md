@@ -4,7 +4,7 @@ Data Analytics Portfolio
 
 ## Project 1: Monitoring of Bottle Manufacturing (Dashboard)
 
-This is the project that I made with IBM Cognos Analytics
+This is an interactive dashboard that I made with IBM Cognos Analytics to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
 
 https://docs.google.com/spreadsheets/d/1LB3fwR-dWvITBT0ZvAQDvDMqUNxaiECRwsPWzc8xpkc/edit#gid=1000889574
 
