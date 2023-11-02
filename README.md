@@ -1,6 +1,5 @@
 # Data Analytics Porfolio
-This portfolio project showcases my skill in data analytics using SQL, Excel, R, Tableau, and IBM Cognos Analytics. It demonstrates my ability to extract, clean, analyze, and visualize data to derive meaningful insights and support decision-making.
-
+This portfolio project showcases my skill in data analytics using SQL, Excel, R, Tableau, and IBM Cognos Analytics.
 
 ## Project 1: Monitoring of Bottle Manufacturing (Dashboard)
 
@@ -27,7 +26,7 @@ Exploratory Data Analysis of COVID 19 Deaths and Vaccinations
 This is the project I did for the Coursera Google Data Analytics course's case study, where I applied the skills that I learned to explore the COVID 19 data.
 
 * Data was taken from [here](https://ourworldindata.org/covid-deaths)
-* Used Microsoft's SQL Server to explore the data
+* Used Microsoft's SQL Server to explore the data. Click [here](https://github.com/je-marco/exploratory_data_analysis/blob/main/Exploratory%20Data%20Analysis%20(COVID-19).sql) to access the SQL code.
 * Used Tableau to visualize the data and create an interactive dashboard
 * Preview of the interactive dashboard:
 <img width="942" alt="COVID19 DASHBOARD" src="https://github.com/je-marco/Porfolio_Project/assets/142670148/9be0c698-3d31-406b-9b00-0a25a9154e08">
