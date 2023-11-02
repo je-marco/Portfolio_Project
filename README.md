@@ -4,6 +4,10 @@ Data Analytics Portfolio
 
 ## Project 1: Monitoring of Bottle Manufacturing (Dashboard)
 
+This is the project that I made with IBM Cognos Analytics
+
+https://docs.google.com/spreadsheets/d/1LB3fwR-dWvITBT0ZvAQDvDMqUNxaiECRwsPWzc8xpkc/edit#gid=1000889574
+
 
 ![Screenshot (1397)](https://github.com/je-marco/Porfolio_Project/assets/142670148/54e94441-d49f-41b5-a578-85b7d5b8cc73)
 
