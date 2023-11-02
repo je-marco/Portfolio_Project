@@ -4,13 +4,12 @@ Data Analytics Portfolio
 
 ## Project 1: Monitoring of Bottle Manufacturing (Dashboard)
 
-This is an interactive dashboard that I made with IBM Cognos Analytics to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
+This is an interactive dashboard that I made while taking the IBM Data Analytics with Excel and R. The dashboard was made in IBM Cognos Analytics to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
 
-* The data sources was provided by IBM Cognos Analytics as a sample which can only be viewed with a Cognos Analytics Account
-  ** Data Location
-https://docs.google.com/spreadsheets/d/1LB3fwR-dWvITBT0ZvAQDvDMqUNxaiECRwsPWzc8xpkc/edit#gid=1000889574
+* The data sources was provided by the Coursera on-line training of Data Visualizations and can only be viewed if you are taking their course. However, I included a detailed documentation of the project to provide necessary description about the data sources, the dataset, calculations used, and the dashboard contents.
+* Check [this google drive file](https://docs.google.com/spreadsheets/d/1LB3fwR-dWvITBT0ZvAQDvDMqUNxaiECRwsPWzc8xpkc/edit?usp=sharing) for the documentaton.
 
-
+### Preview of the Dashboard: Monitor Bottle Manufacturing
 ![Screenshot (1397)](https://github.com/je-marco/Porfolio_Project/assets/142670148/54e94441-d49f-41b5-a578-85b7d5b8cc73)
 
 ![Screenshot (1398)](https://github.com/je-marco/Porfolio_Project/assets/142670148/d35663e6-4eb0-4246-abbe-f9cfd79d28bf)
