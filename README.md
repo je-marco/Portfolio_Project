@@ -6,6 +6,8 @@ Data Analytics Portfolio
 
 This is an interactive dashboard that I made with IBM Cognos Analytics to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
 
+* The data sources was provided by IBM Cognos Analytics as a sample which can only be viewed with a Cognos Analytics Account
+  ** Data Location
 https://docs.google.com/spreadsheets/d/1LB3fwR-dWvITBT0ZvAQDvDMqUNxaiECRwsPWzc8xpkc/edit#gid=1000889574
 
 
