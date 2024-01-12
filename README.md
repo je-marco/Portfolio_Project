@@ -1,4 +1,4 @@
-# Porfolio
+# Porfolio Projects
 
 ## Project 1: Monitoring of Bottle Manufacturing (Dashboard)
 
