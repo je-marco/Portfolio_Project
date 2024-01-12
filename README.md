@@ -62,9 +62,8 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 
 ![1](https://github.com/je-marco/Portfolio_Project/assets/142670148/7afc9d7c-b223-4096-a160-44390bbc1d5f)
 
-![Tomato - Tagalog](https://github.com/je-marco/Portfolio_Project/assets/142670148/5531a2a1-d337-403c-b538-12a27e2d4ac7)
+![Tomato - English](https://github.com/je-marco/Portfolio_Project/assets/142670148/87342243-66ca-4839-9dd7-7632abeff1e4)
 
 
 
-## Others: Invitations, Leaflets
 
