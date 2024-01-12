@@ -45,6 +45,6 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 <img width="960" alt="Screenshot 2023-09-25 141420" src="https://github.com/je-marco/Porfolio_Project/assets/142670148/561ed553-2389-4d70-94d8-6d03d0339a39">
 
 ## Project 4: University of the Philippines College of Business Administration 1971 Jubilee Yearbook
-* This is a 6-months project that I did as a page layout designer
+* This is a remote 6-months project that I did as a page layout designer
 * 
 
