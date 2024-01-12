@@ -51,7 +51,6 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 
 
 ## Others: Marketing materials
-* Ads:
 ![FB-A -2](https://github.com/je-marco/Portfolio_Project/assets/142670148/5c08dc4c-2c69-4812-8f21-11b03884da6d)
 
 ![TOMATO-A -500](https://github.com/je-marco/Portfolio_Project/assets/142670148/62b554ab-9205-4a89-ae65-55049545e013)
