@@ -51,6 +51,11 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 
 
 ## Others: Marketing materials
+* Ads:
+![7](https://github.com/je-marco/Portfolio_Project/assets/142670148/042db86d-152a-419a-a483-ea810e11c269)
+
+![2](https://github.com/je-marco/Portfolio_Project/assets/142670148/16917cb1-7d42-4ebd-b9f6-0c376a066f3f)
+
 
 ## Others: Invitations, Leaflets
 
