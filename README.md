@@ -54,14 +54,14 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 
 
 ## OTHERS: 
-## Project 4: University of the Philippines College of Business Administration 1971 Jubilee Yearbook
+### University of the Philippines College of Business Administration 1971 Jubilee Yearbook
 * This is a remote 6-months project that I did as a page layout designer
 * Collected and organized text, images, and visual styles
 * Translated requirements into polished designs using Canva
 
 
 
-## Project 5: Marketing materials for Effusio Philippines
+### Marketing materials for Effusio Philippines
 ![Portfolio](https://github.com/je-marco/Portfolio_Project/assets/142670148/3d191bda-eec4-41c3-b960-1ab84fc09442)
 
 ![Portfolio (1)](https://github.com/je-marco/Portfolio_Project/assets/142670148/6f8a7424-33e1-49e7-9cf4-2ebc2948e352)
