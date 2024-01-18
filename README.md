@@ -62,9 +62,10 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 
 
 ### Marketing materials for Effusio Philippines
-![Portfolio](https://github.com/je-marco/Portfolio_Project/assets/142670148/3d191bda-eec4-41c3-b960-1ab84fc09442)
+![1](https://github.com/je-marco/Portfolio_Project/assets/142670148/075dd0a2-c838-4f2c-8b85-f000abb13e74)
 
-![Portfolio (1)](https://github.com/je-marco/Portfolio_Project/assets/142670148/6f8a7424-33e1-49e7-9cf4-2ebc2948e352)
+![2](https://github.com/je-marco/Portfolio_Project/assets/142670148/6091fdc6-8915-493a-8d75-ccb509a96957)
+
 
 
 
