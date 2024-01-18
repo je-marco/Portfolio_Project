@@ -74,6 +74,11 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 
 ![Tomato - English](https://github.com/je-marco/Portfolio_Project/assets/142670148/87342243-66ca-4839-9dd7-7632abeff1e4)
 
+![Portfolio](https://github.com/je-marco/Portfolio_Project/assets/142670148/2bac4be6-1ba1-4cb2-b15b-976d8dc7cadc)
+
+
+
+
 
 
 
