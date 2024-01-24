@@ -59,6 +59,9 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 * Collected and organized text, images, and visual styles
 * Translated requirements into polished designs using Canva
 
+![table mockup](https://github.com/je-marco/Portfolio_Project/assets/142670148/884f18b9-0fc3-4164-b5f1-34ac13671b4b)
+
+
 
 
 ### Marketing materials for Effusio Philippines
