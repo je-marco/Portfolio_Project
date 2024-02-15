@@ -1,10 +1,10 @@
-# My Portfolio
+## My Data Analytics Portfolio
 
 ## Project 1: Sales Dashboard for a Bakery Business
 
-* This is a project that I made for a start-up bakery business named Freon's Homemade Sweets and Pastries
-* Utilized CONDITIONAL FORMATTING to ensure accuracy in data entry of Income and Expenses
-* Used functions such as PIVOT TABLE, VLOOKUP, SUMIFS, and CHARTS to build the dashboard
+* This is a project that I made for a start-up bakery business named Freon's Homemade Sweets and Pastries using **Google Sheets**
+* Utilized **CONDITIONAL FORMATTING** to ensure accuracy in data entry of Income and Expenses
+* Used functions such as **PIVOT TABLE**, **VLOOKUP**, **SUMIFS**, and **CHARTS** to build the dashboard
 
 <img width="960" alt="Screenshot 2023-09-25 141253" src="https://github.com/je-marco/Porfolio_Project/assets/142670148/48c05291-1aad-467b-b260-fdbf25587622">
 <img width="960" alt="Screenshot 2023-09-25 141402" src="https://github.com/je-marco/Porfolio_Project/assets/142670148/130222bb-0ed8-40b0-ba96-6d9290cde053">
@@ -16,10 +16,10 @@
 
 ## Project 2: Monitoring of Bottle Manufacturing (Dashboard)
 
-This is an interactive dashboard that I made while taking the Coursera's IBM Data Analytics with Excel and R. The dashboard was made in IBM Cognos Analytics to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
+This is an interactive dashboard that I made while taking the **Coursera's IBM Data Analytics with Excel and R**. The dashboard was made in **IBM Cognos Analytics** to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
 
 * Constructed a data module which contains dataset from various data sources (Excel, CSV files). (_In IBM Cognos Analytics, a data module is a container that describes data and rules for combining and shaping data to prepare it for analysis and visualization._)
-* The data sources was provided by the Coursera on-line training of Data Visualizations and can only be viewed if you are taking their course. However, I included a detailed documentation of the project to provide necessary description about the data sources, the dataset, calculations used, and the dashboard contents.
+* The data sources was provided by the Coursera on-line training of Data Visualizations and can only be viewed if you are taking their course. However, I included a detailed documentation of the project to provide necessary description about the data sources, the dataset, calculations used, and the dashboard's contents.
 * Check [this google drive file](https://docs.google.com/spreadsheets/d/1LB3fwR-dWvITBT0ZvAQDvDMqUNxaiECRwsPWzc8xpkc/edit?usp=sharing) for the documentaton.
 
 ### Preview of the Dashboard: Monitor Bottle Manufacturing
@@ -39,11 +39,11 @@ This is an interactive dashboard that I made while taking the Coursera's IBM Dat
 
 Exploratory Data Analysis of COVID 19 Deaths and Vaccinations
 
-This is the project I did for the Coursera Google Data Analytics course's case study, where I applied the skills that I learned to explore the COVID 19 data.
+This is the project I did for the **Coursera Google Data Analytics** course's case study, where I applied the skills that I learned to explore the COVID 19 data.
 
 * Data was taken from [here](https://ourworldindata.org/covid-deaths)
-* Used Microsoft's SQL Server to explore the data. Click [here](https://github.com/je-marco/exploratory_data_analysis/blob/main/Exploratory%20Data%20Analysis%20(COVID-19).sql) to access the SQL code.
-* Used Tableau to visualize the data and create an interactive dashboard
+* Used **Microsoft's SQL Server** to explore the data. Click [here](https://github.com/je-marco/exploratory_data_analysis/blob/main/Exploratory%20Data%20Analysis%20(COVID-19).sql) to access the SQL code.
+* Used **Tableau** to visualize the data and create an interactive dashboard
 * Preview of the interactive dashboard:
 <img width="942" alt="COVID19 DASHBOARD" src="https://github.com/je-marco/Porfolio_Project/assets/142670148/9be0c698-3d31-406b-9b00-0a25a9154e08">
 
@@ -53,7 +53,7 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 
 
 
-## OTHERS: 
+## Other projects showcasing my page layout skills: 
 ### University of the Philippines College of Business Administration 1971 Jubilee Yearbook
 
 ![UPBSBA](https://github.com/je-marco/Portfolio_Project/assets/142670148/12d47cb9-e451-4dce-a35e-1ccddbb3efc6)
