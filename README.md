@@ -1,4 +1,4 @@
-# My portfolio showcasing my skills in data analytics
+# My Portfolio Showcasing My Skills in Data Analytics
 
 ## Project 1: Sales Dashboard for a Bakery Business
 
