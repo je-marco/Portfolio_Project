@@ -1,4 +1,4 @@
-## My Data Analytics Portfolio
+# My portfolio showcasing my skills in data analytics
 
 ## Project 1: Sales Dashboard for a Bakery Business
 
@@ -53,7 +53,9 @@ This is the project I did for the **Coursera Google Data Analytics** course's ca
 
 
 
-## Other projects showcasing my page layout skills: 
+## Other projects showcasing my page layout skills
+
+
 ### University of the Philippines College of Business Administration 1971 Jubilee Yearbook
 
 ![UPBSBA](https://github.com/je-marco/Portfolio_Project/assets/142670148/12d47cb9-e451-4dce-a35e-1ccddbb3efc6)
