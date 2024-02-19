@@ -3,7 +3,7 @@
 ## Project 1: Sales Dashboard for a Bakery Business
 
 * This is a project that I made for a start-up bakery business named Freon's Homemade Sweets and Pastries using **Google Sheets**
-* Utilized **CONDITIONAL FORMATTING** to ensure accuracy in data entry of Income and Expenses
+* Utilized **CONDITIONAL FORMATTING** to ensure accuracy in data entry of Sales and Expenses
 * Used functions such as **PIVOT TABLE**, **VLOOKUP**, **SUMIFS**, and **CHARTS** to build the dashboard
 
 <img width="960" alt="Screenshot 2023-09-25 141253" src="https://github.com/je-marco/Porfolio_Project/assets/142670148/48c05291-1aad-467b-b260-fdbf25587622">
