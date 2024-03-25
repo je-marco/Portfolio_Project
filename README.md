@@ -1,4 +1,5 @@
 # My Portfolio Showcasing My Skills in Data Analytics
+---
 
 ## Project 1: Sales Dashboard for a Bakery Business
 
@@ -13,7 +14,7 @@
 
 
 
-
+---
 ## Project 2: Monitoring of Bottle Manufacturing (Dashboard)
 
 This is an interactive dashboard that I made while taking the **Coursera's IBM Data Analytics with Excel and R**. The dashboard was made in **IBM Cognos Analytics** to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
@@ -34,7 +35,7 @@ This is an interactive dashboard that I made while taking the **Coursera's IBM D
 
 
 
-
+---
 ## Project 3: Exploratory Data Analysis
 
 Exploratory Data Analysis of COVID 19 Deaths and Vaccinations
@@ -55,7 +56,7 @@ This is the project I did for the **Coursera Google Data Analytics** course's ca
 
 
 
-
+---
 
 ## Other projects showcasing my page layout skills
 
@@ -67,7 +68,7 @@ This is the project I did for the **Coursera Google Data Analytics** course's ca
 
 
 
-
+---
 ### Marketing materials for Effusio Philippines
 ![1](https://github.com/je-marco/Portfolio_Project/assets/142670148/075dd0a2-c838-4f2c-8b85-f000abb13e74)
 
