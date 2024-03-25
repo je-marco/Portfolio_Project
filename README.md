@@ -17,9 +17,11 @@
 ---
 ## Project 2: Monitoring of Bottle Manufacturing (Dashboard)
 
-This is an interactive dashboard that I made while taking the **Coursera's IBM Data Analytics with Excel and R**. The dashboard was made in **IBM Cognos Analytics** to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
+This is an interactive dashboard that I made while taking the **Coursera's IBM Data Analytics with Excel and R**. The dashboard was made in **IBM Cognos Analytics**.  
 
-* Constructed a data module which contains dataset from various data sources (Excel, CSV files). (_In IBM Cognos Analytics, a data module is a container that describes data and rules for combining and shaping data to prepare it for analysis and visualization._)
+* Identified key metrics to be able to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing.
+* Constructed a data module which contains dataset from various data sources (Excel, CSV files).     
+>>> (_In IBM Cognos Analytics, a data module is a container that describes data and rules for combining and shaping data to prepare it for analysis and visualization._)
 * The data sources was provided by the Coursera on-line training of Data Visualizations and can only be viewed if you are taking their course. However, I included a detailed documentation of the project to provide necessary description about the data sources, the dataset, calculations used, and the dashboard's contents.
 * Check [this google drive file](https://docs.google.com/spreadsheets/d/1LB3fwR-dWvITBT0ZvAQDvDMqUNxaiECRwsPWzc8xpkc/edit?usp=sharing) for the documentaton.
 
@@ -48,7 +50,7 @@ This is the project I did for the **Coursera Google Data Analytics** course's ca
 * Preview of the interactive dashboard:
 <img width="942" alt="COVID19 DASHBOARD" src="https://github.com/je-marco/Porfolio_Project/assets/142670148/9be0c698-3d31-406b-9b00-0a25a9154e08">
 
-### [Link to the Tableau dashboard](https://public.tableau.com/app/profile/jericka.marco/viz/COVID19Dashboard_16951688711120/floating) - Use Desktop View for the best view
+### [Link to the Tableau dashboard](https://public.tableau.com/app/profile/jericka.marco/viz/COVID19Dashboard_16951688711120/floating) - 
 
 
 
