@@ -2,6 +2,26 @@
 
 --- 
 
+## TO DO: EXCEL | STATISTICAL ANALYSIS OF EXPERIMENTAL DATA
+Objective: Perform statistical analysis on chemical experimental data.
+Data: Experimental measurements, uncertainties.  
+Analysis: Use Excel for regression analysis, t-tests, ANOVA, and to calculate mean, standard deviation, and confidence intervals. Visualize data with scatter plots and error bars.
+
+## TO DO: EXCEL | ENVIRONMENTAL IMPACT OF CHEMICAL PROCESSES
+Objective: Analyze the environmental impact of chemical processes.
+Data: Emission data, energy usage, waste generation.
+Analysis: Use Excel to quantify and visualize emissions and waste. Perform life cycle assessment (LCA) for different processes and suggest improvements.
+
+How to Implement in Excel
+Data Entry: Use tables for organizing raw data.
+Formulas: Employ formulas for calculations, such as rate constants, equilibrium constants, statistical metrics, etc.
+Graphs: Utilize charts (scatter plots, line graphs, bar charts) for data visualization.
+Solver Tool: Use for optimization problems and regression analysis.
+Pivot Tables: For summarizing and analyzing large datasets.
+Conditional Formatting: To highlight trends or anomalies in data.
+
+---
+
 ## PYTHON (NumPy, Pandas, Scikit-learn, Matplotlib) | MACHINE LEARNING | DATA ANALYSIS
 [PREDICTING THE QUALITY OF WHITE WINE](https://docs.google.com/presentation/d/1oDFPnfKkoBjCuXTg55KydqY83c-4uBwVb0ZATAKvQlY/edit?usp=sharing)
 - [X] Leveraged machine learning algorithms to predict the quality of white wines based on objective analytical test results with the goal of reducing the inherent subjectivity present in human sensory analysis.
