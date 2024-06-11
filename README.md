@@ -3,14 +3,14 @@
 --- 
 
 ## TO DO: EXCEL | STATISTICAL ANALYSIS OF EXPERIMENTAL DATA
-Objective: Perform statistical analysis on chemical experimental data.
-Data: Experimental measurements, uncertainties.  
-Analysis: Use Excel for regression analysis, t-tests, ANOVA, and to calculate mean, standard deviation, and confidence intervals. Visualize data with scatter plots and error bars.
+**Objective:** Perform statistical analysis on chemical experimental data.  
+**Data:** Experimental measurements, uncertainties.  
+**Analysis:** Use Excel for regression analysis, t-tests, ANOVA, and to calculate mean, standard deviation, and confidence intervals. Visualize data with scatter plots and error bars.
 
 ## TO DO: EXCEL | ENVIRONMENTAL IMPACT OF CHEMICAL PROCESSES
-Objective: Analyze the environmental impact of chemical processes.
-Data: Emission data, energy usage, waste generation.
-Analysis: Use Excel to quantify and visualize emissions and waste. Perform life cycle assessment (LCA) for different processes and suggest improvements.
+**Objective:** Analyze the environmental impact of chemical processes.  
+**Data:** Emission data, energy usage, waste generation.  
+**Analysis:** Use Excel to quantify and visualize emissions and waste. Perform life cycle assessment (LCA) for different processes and suggest improvements.
 
 How to Implement in Excel
 Data Entry: Use tables for organizing raw data.
