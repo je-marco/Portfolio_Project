@@ -20,7 +20,7 @@ PREDICTING CHURN OF WAZE APP USER
 
 ## PYTHON (NumPy, Pandas, Scikit-learn, Matplotlib) | MACHINE LEARNING 
 [INCREASING EMPLOYEE RETENTION AT SALIFORT MOTORS](https://docs.google.com/presentation/d/1Lcxk6ODA_UuiC2HJNIebM-Nfddu4N4nelW2qAsNsCzE/edit?usp=sharing)
-- [X] Built a predictive model and provided data-driven suggestions for Human Resources of Salifort Motors, a fictional company, to increase employee retention. 
+- [X] Built a predictive model to data-driven suggestions for Human Resources of Salifort Motors, a fictional company, to increase employee retention. 
    
 [Show More](https://github.com/je-marco/Salifort-Motors-Employee-Retention.git)
 
