@@ -9,7 +9,7 @@
 
 ## TO DO: EXCEL | ENVIRONMENTAL IMPACT OF CHEMICAL PROCESSES
 **Objective:** Analyze the environmental impact of chemical processes.  
-**Data:** Emission data, energy usage, waste generation.  
+**Data:** [Emission data, energy usage, waste generation.](https://catalog.data.gov/dataset/dataset-for-paper-assessment-of-chemical-facility-ethylene-oxide-emissions-using-mobile-an)  
 **Analysis:** Use Excel to quantify and visualize emissions and waste. Perform life cycle assessment (LCA) for different processes and suggest improvements.
 
 How to Implement in Excel
