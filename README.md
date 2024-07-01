@@ -7,18 +7,11 @@
 **Data:** Experimental measurements, uncertainties.  
 **Analysis:** Use Excel for regression analysis, t-tests, ANOVA, and to calculate mean, standard deviation, and confidence intervals. Visualize data with scatter plots and error bars.
 
-## TO DO: EXCEL | ENVIRONMENTAL IMPACT OF CHEMICAL PROCESSES
-**Objective:** Analyze the environmental impact of chemical processes.  
-**Data:** [Emission data, energy usage, waste generation.](https://catalog.data.gov/dataset/dataset-for-paper-assessment-of-chemical-facility-ethylene-oxide-emissions-using-mobile-an)  
-**Analysis:** Use Excel to quantify and visualize emissions and waste. Perform life cycle assessment (LCA) for different processes and suggest improvements.
+## EXCEL | EXPLORATORY DATA ANALYSIS | PIVOT TABLES | CONDITIONAL FORMATTING | DATA VISUALIZATION
+ENERGY CONSUMPTION ANALYSIS
+- [X] Dynamic analysis of Daewoo Steel Year 2018 Energy Consumption
 
-How to Implement in Excel
-Data Entry: Use tables for organizing raw data.
-Formulas: Employ formulas for calculations, such as rate constants, equilibrium constants, statistical metrics, etc.
-Graphs: Utilize charts (scatter plots, line graphs, bar charts) for data visualization.
-Solver Tool: Use for optimization problems and regression analysis.
-Pivot Tables: For summarizing and analyzing large datasets.
-Conditional Formatting: To highlight trends or anomalies in data.
+[Show More](https://github.com/je-marco/energy_consumption_analysis)
 
 ---
 
