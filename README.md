@@ -7,9 +7,13 @@
 **Data:** Experimental measurements, uncertainties.  
 **Analysis:** Use Excel for regression analysis, t-tests, ANOVA, and to calculate mean, standard deviation, and confidence intervals. Visualize data with scatter plots and error bars.
 
+---
 ## EXCEL | EXPLORATORY DATA ANALYSIS | PIVOT TABLES | CONDITIONAL FORMATTING | DATA VISUALIZATION
 ENERGY CONSUMPTION ANALYSIS
 - [X] Dynamic analysis of Daewoo Steel Year 2018 Energy Consumption
+
+  
+![Overview_image](https://github.com/je-marco/energy_consumption_analysis/blob/7259fab560126c081a6bd1d675d80ca96d374181/overview.png)
 
 [Show More](https://github.com/je-marco/energy_consumption_analysis)
 
