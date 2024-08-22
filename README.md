@@ -8,7 +8,7 @@
 **Analysis:** Use Excel for regression analysis, t-tests, ANOVA, and to calculate mean, standard deviation, and confidence intervals. Visualize data with scatter plots and error bars.
 
 ---
-## EXCEL | EXPLORATORY DATA ANALYSIS | PIVOT TABLES | CONDITIONAL FORMATTING | DATA VISUALIZATION
+## EXCEL | EXPLORATORY DATA ANALYSIS | PIVOT TABLES | CONDITIONAL FORMATTING | DATA VISUALIZATION: Dashboard
 ENERGY CONSUMPTION ANALYSIS
 - [X] Dynamic analysis of Daewoo Steel Year 2018 Energy Consumption
 
