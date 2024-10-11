@@ -7,7 +7,7 @@ This portfolio highlights my proficiency in a range of tools and skills such as 
 - [X] Replaced a written and manual tracking of sales and expenses of a start-up bakery business by utilizing Google Forms and creating a spreadsheet dashboard to pull and visualize the data.  
 
 <img width="960" alt="Screenshot 2023-09-25 141253" src="https://github.com/je-marco/Porfolio_Project/assets/142670148/48c05291-1aad-467b-b260-fdbf25587622">  
----  
+ 
   
 
       
