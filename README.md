@@ -1,5 +1,5 @@
 # PORTFOLIO PROJECTS
-This portfolio highlights my proficiency in a range of tools and skills such as Excel, Google Sheets, Python, Tableau, SQL, Data Analysis, Data Visualization, and Machine Learning
+This portfolio highlights my proficiency in a range of tools and skills, such as Excel, Google Sheets, Python, Tableau, SQL, Data Analysis, Data Visualization, and Machine Learning.
 
 ---
 ## GOOGLE SHEETS | DATA COLLECTION | DATA VISUALIZATION
