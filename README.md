@@ -24,7 +24,7 @@ This portfolio highlights my proficiency in a range of tools and skills such as 
     
 ---
 ## PYTHON (NumPy, Pandas, Scikit-learn, Matplotlib) | MACHINE LEARNING | DATA ANALYSIS
-**[PREDICTING THE QUALITY OF WHITE WINE](https://docs.google.com/presentation/d/1oDFPnfKkoBjCuXTg55KydqY83c-4uBwVb0ZATAKvQlY/edit?usp=sharing)**
+**PREDICTING THE QUALITY OF WHITE WINE**
 - [X] Leveraged machine learning algorithms to predict the quality of white wines based on objective analytical test results with the goal of reducing the inherent subjectivity present in human sensory analysis.
       
 ![ConfusionMatrix](https://github.com/je-marco/Wine-Quality-Prediction/blob/1226304f9246b59ff5256238ab3b2b22392868de/Confusion%20Matrix%20for%20XGBoost%20model%20with%20SMOTE.png)
@@ -48,7 +48,7 @@ This portfolio highlights my proficiency in a range of tools and skills such as 
       
 ---
 ## PYTHON (NumPy, Pandas, Scikit-learn, Matplotlib) | MACHINE LEARNING 
-**[INCREASING EMPLOYEE RETENTION AT SALIFORT MOTORS](https://docs.google.com/presentation/d/1Lcxk6ODA_UuiC2HJNIebM-Nfddu4N4nelW2qAsNsCzE/edit?usp=sharing)**
+**INCREASING EMPLOYEE RETENTION AT SALIFORT MOTORS**
 - [X] Built a model that can predict employees who are likely to quit at Salifort Motors (*a fictional company*) and can identify factors that contribute to their leaving.
 
 ![Overview](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/c600edd85a2bf1fb266b67b7e1f63f853039bbad/feature_importance_3.png)
