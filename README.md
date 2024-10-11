@@ -24,7 +24,7 @@ This portfolio highlights my proficiency in a range of tools and skills such as 
     
 ---
 ## PYTHON (NumPy, Pandas, Scikit-learn, Matplotlib) | MACHINE LEARNING | DATA ANALYSIS
-**PREDICTING THE QUALITY OF WHITE WINE**
+**PREDICTING THE QUALITY OF WHITE WINES**
 - [X] Leveraged machine learning algorithms to predict the quality of white wines based on objective analytical test results with the goal of reducing the inherent subjectivity present in human sensory analysis.
       
 ![ConfusionMatrix](https://github.com/je-marco/Wine-Quality-Prediction/blob/1226304f9246b59ff5256238ab3b2b22392868de/Confusion%20Matrix%20for%20XGBoost%20model%20with%20SMOTE.png)
