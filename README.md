@@ -38,6 +38,8 @@ This portfolio highlights my proficiency in a range of tools and skills such as 
 ## PYTHON | TABLEAU | EXPLORATORY DATA ANALYSIS | HYPOTHESIS TESTING | REGRESSION MODELING | MACHINE LEARNING | 
 **PREDICTING CHURN OF WAZE APP USER**
 - [X] Full analysis of the Waze app user data to predict monthly user churn.
+
+![overview](https://github.com/je-marco/Waze-App-User-Churn-Prediction/blob/c08b080eb9c8a2a2af3dd9459d7f3b9fab6f4f60/tableau_1.png)
         
 [Show More](https://github.com/je-marco/Waze-App-User-Churn-Prediction.git)
 ---  
@@ -47,7 +49,9 @@ This portfolio highlights my proficiency in a range of tools and skills such as 
 ---
 ## PYTHON (NumPy, Pandas, Scikit-learn, Matplotlib) | MACHINE LEARNING 
 **[INCREASING EMPLOYEE RETENTION AT SALIFORT MOTORS](https://docs.google.com/presentation/d/1Lcxk6ODA_UuiC2HJNIebM-Nfddu4N4nelW2qAsNsCzE/edit?usp=sharing)**
-- [X] Built a predictive model to data-driven suggestions for Human Resources of Salifort Motors, a fictional company, to increase employee retention. 
+- [X] Built a model that can predict employees who are likely to quit at Salifort Motors (*a fictional company*) and can identify factors that contribute to their leaving.
+
+![Overview](https://github.com/je-marco/Salifort-Motors-Employee-Retention/blob/c600edd85a2bf1fb266b67b7e1f63f853039bbad/feature_importance_3.png)
    
 [Show More](https://github.com/je-marco/Salifort-Motors-Employee-Retention.git)
 ---  
