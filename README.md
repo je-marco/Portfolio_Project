@@ -1,12 +1,5 @@
 # My Portfolio Projects
 
---- 
-
-## TO DO: EXCEL | STATISTICAL ANALYSIS OF EXPERIMENTAL DATA
-**Objective:** Perform statistical analysis on chemical experimental data.  
-**Data:** Experimental measurements, uncertainties.  
-**Analysis:** Use Excel for regression analysis, t-tests, ANOVA, and to calculate mean, standard deviation, and confidence intervals. Visualize data with scatter plots and error bars.
-
 ---
 ## EXCEL | EXPLORATORY DATA ANALYSIS | PIVOT TABLES | CONDITIONAL FORMATTING | DATA VISUALIZATION: Dashboard
 ENERGY CONSUMPTION ANALYSIS
